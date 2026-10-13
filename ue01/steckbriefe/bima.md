@@ -10,4 +10,4 @@ Im Studium habe ich ein Webtechnologien-Projekt umgesetzt, ein Buchungssystem f�
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Ich möchte Softwaretechnik gut verstehen und lernen, wie sie in der Praxis angewendet wird und wofür man sie einsetzt.
