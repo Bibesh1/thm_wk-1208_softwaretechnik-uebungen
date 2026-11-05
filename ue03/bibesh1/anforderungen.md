@@ -10,7 +10,10 @@
 | A06 | Für die Entwicklung des Terminplaners steht ein festes Budget von maximal 10.000 Euro zur Verfügung. | Hochschulleitung | RB |
 | A07 | Studierende erhalten automatisch 24 Stunden vor ihrem gebuchten Termin eine Erinnerung. | Studierende | FA |
 | A08 | Lehrende können ihre angebotenen Sprechstunden jederzeit einsehen und verwalten. | Lehrende | FA |
+| A09 | Termine, deren Zeitpunkt bereits in der Vergangenheit liegt, dürfen nicht gebucht werden. | Studierende | FA |
 
 ## Eine Anforderung, die niemand ausgesprochen hat
 
-…
+Bezug: A09
+
+Es wird normalerweise als selbstverständlich angesehen, dass man keine Termine in der Vergangenheit buchen kann. Trotzdem müssen diese Regel berücksichtigt werden, damit keine ungültigen Buchungen entstehen.
